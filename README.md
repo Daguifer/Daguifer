@@ -1,6 +1,8 @@
 <h1 align="center">Hola! 👋</h1>
 <h3 align="center">Full Stack Developer</h3>
 
+- 🌱 Actualmente estoy aprendiendo sobre desarrollo de videojuegos con Monogame (C#)
+
 - 📫 Puedes hacerme consultas o enviarme ofertas a **davidcandas97@gmail.com**
 
 <h3 align="left">Contacto:</h3>
