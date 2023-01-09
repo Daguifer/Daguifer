@@ -1,4 +1,4 @@
-<h1 align="center">Hola! 👋, Me llamo David Aguilar</h1>
+<h1 align="center">Hola! 👋</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 - 📫 Puedes hacerme consultas o enviarme ofertas a **davidcandas97@gmail.com**
